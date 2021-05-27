@@ -9,3 +9,5 @@ dist
 
 # Dependency directory
 node_modules
+example/.DS_Store
+.DS_Store
